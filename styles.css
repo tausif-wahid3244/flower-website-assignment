@@ -207,8 +207,7 @@
     align-items: center;
     justify-content: center;
     background: #111010;
-    width: 1922px;
-    height: 449px;
+    
     
 }
 .h3-5{
@@ -241,6 +240,7 @@
     font-style: normal;
     font-weight: 400;
     line-height: normal;
+    margin-bottom: 60px;
 }
 
 .footer-span{
